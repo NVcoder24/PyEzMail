@@ -15,7 +15,7 @@ pip install email
 from PyEzMail import Message, User, MIMEParts
 ```
 
-## Setup
+## Create User
 ```python
 user = User("myemail@gmail.com", "MySuperSecurePassword123")
 ```
